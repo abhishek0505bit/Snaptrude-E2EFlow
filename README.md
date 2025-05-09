@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** draft you can use for your project, covering everything you mentioned — plus I’ll suggest some next improvements at the end.
-
----
-
 ## 📐 Snaptrude E2E Test Suite
 
 This project is an **End-to-End (E2E) automation test suite** built using [Playwright](https://playwright.dev/) + JavaScript, designed to test core user flows on the Snaptrude application.
